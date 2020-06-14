@@ -1,0 +1,27 @@
+PROJECT: Minesweeper
+
+ROLES: 
+Casey - Tester
+Lauren - Doc/Repo
+Michael - Architect
+
+ROADMAP
+
+Oct 17 - set group roles, make a plan
+Oct 19 - set up the Board class, Cell class, and GUI  - create all buttons/scorekeeper/place for grid/timer , make the grids clickable, set random mines?
+Oct 22 - start the logic/recursion for keeping track of mines and number indicators in Cell class, also covered/uncovered indicators, run unit tests
+Oct 24 - review for LP2
+Oct 26 - LAB PRACTICAL 2
+Oct 29 - incorporate Cell class and info into Board class, run unit tests
+Oct 31 - troubleshooting
+Nov 2 - 
+Nov 5 - 
+Nov 7 - 
+Nov 9 - 
+
+
+NOTES
+ 
+Watch out for recursive problems
+
+-	Getting stuck trying to reveal blocks or count mines around
